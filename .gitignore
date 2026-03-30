@@ -1,0 +1,5 @@
+GEMINI_API_KEY=AIzaSyBv8I4Xn3_0CdqmuN_xor9ggdQX28eKJis
+
+.venv/
+venv/
+__pycache__/
